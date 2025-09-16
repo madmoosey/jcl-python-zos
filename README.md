@@ -1,4 +1,4 @@
-# COBOL + JCL + Python End-to-End Example
+# COBOL + JCL + Python
 
 This package demonstrates how to compile, link, and run a simple COBOL program on z/OS,
 and how to automate job submission from Python.
